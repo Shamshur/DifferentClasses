@@ -1,12 +1,12 @@
 package seventh;
 
-public class A {
+class A {
 int i;
 int j;
 int k,l;
 
 	
-	int vol() {
+	int vol() { //in this way you can apply formula
 	return i*j;
 	
 	
