@@ -4,6 +4,10 @@ class Gamma {
 int x;
 int y;
 
+int sumUP() {
+	return x+y;
+}
+
 Gamma(int c, int d){
 	x=c;
 	y=d;
