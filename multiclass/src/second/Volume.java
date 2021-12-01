@@ -16,9 +16,14 @@ public class Volume {
 		vol1=secondBox.volume();
 		System.out.println(vol);
 		System.out.println(vol1);
+		//we can get same output without variable vol & vol1 by below 
+		System.out.println(firstBox.volume());
+		
+		System.out.println(secondBox.volume());
 		
 		
 
 	}
 
 }
+	

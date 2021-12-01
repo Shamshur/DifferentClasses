@@ -27,6 +27,7 @@ class B {
 		
 		totaly=box2.totel();
 		System.out.println(totaly);
+		
 
 	}
 

@@ -5,6 +5,7 @@ int i;
 int j;
 int k,l;
 
+
 	
 	int vol() { //in this way you can apply formula
 	return i*j;
